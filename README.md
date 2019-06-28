@@ -1,3 +1,6 @@
+**NOTE** The use of this repository is being deprecated in favor of [the driplineorg version](http://github.com/driplineorg/dripline-python).
+This repo is being "archived" which makes it READ-ONLY going forward.
+
 # dripline-python
 Python implementation of the Dripline framework
 
